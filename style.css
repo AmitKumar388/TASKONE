@@ -192,6 +192,8 @@ header nav .search i {
 .about .description p {
   color: #fbfbfb;
   font-size: 20px;
+  margin: 2px;
+  padding: 20px;
 }
 
 .about .description p span {
